@@ -11,19 +11,25 @@ When the program starts you can enter the rules of the automaton :
 Here are some results obtained with different rules : 
 
 Range : 1, Threshold : 1, States : 16, Neghbourhood : Neumann
+
 ![1_1_16_neumann](1_1_16_neumann.gif)
 
 Range : 1, Threshold : 3, States : 3, Neghbourhood : Moore
+
 ![1_3_3_moore](1_3_3_moore.gif)
 
 Range : 2, Threshold : 3, States : 14, Neghbourhood : Moore
+
 ![2_3_14_moore](2_3_14_moore.gif)
 
 Range : 2, Threshold : 4, States : 9, Neghbourhood : Moore
+
 ![2_4_9_moore](2_4_9_moore.gif)
 
 Range : 3, Threshold : 4, States : 5, Neghbourhood : Neumann
+
 ![3_4_5_neumann](3_4_5_neumann.gif)
 
 Range : 3, Threshold : 5, States : 8, Neghbourhood : Moore
+
 ![3_5_8_moore](3_5_8_moore.gif)
